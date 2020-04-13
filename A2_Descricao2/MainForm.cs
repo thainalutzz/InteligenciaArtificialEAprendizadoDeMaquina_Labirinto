@@ -578,6 +578,36 @@ namespace A2_Descricao2
 
         }
 
+        private void backgroundWorker1_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void MainForm_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
@@ -616,7 +646,7 @@ namespace A2_Descricao2
                     }
                     else if (grade[l, c] == CAMINHO)
                     {
-                        brush = new SolidBrush(Color.Blue);
+                        brush = new SolidBrush(Color.CornflowerBlue);
                     }
                     g.FillPolygon(brush, CalculaQuadrado(l, c));
                     brush.Dispose();

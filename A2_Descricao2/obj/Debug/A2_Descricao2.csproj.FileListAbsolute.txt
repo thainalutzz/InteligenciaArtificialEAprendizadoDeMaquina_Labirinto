@@ -1,0 +1,10 @@
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\bin\Debug\A2_Descricao2.exe.config
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\bin\Debug\A2_Descricao2.exe
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\bin\Debug\A2_Descricao2.pdb
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\obj\Debug\A2_Descricao2.csprojAssemblyReference.cache
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\obj\Debug\A2_Descricao2.MainForm.resources
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\obj\Debug\A2_Descricao2.Properties.Resources.resources
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\obj\Debug\A2_Descricao2.csproj.GenerateResource.cache
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\obj\Debug\A2_Descricao2.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\obj\Debug\A2_Descricao2.exe
+C:\Users\ezequ\Documents\GitHub\InteligenciaArtificialEAprendizadoDeMaquina_Labirinto\A2_Descricao2\obj\Debug\A2_Descricao2.pdb
